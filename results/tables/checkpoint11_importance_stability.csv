@@ -1,0 +1,17 @@
+feature,positive_importance_folds,negative_importance_folds,near_zero_importance_folds,positive_fold_fraction,stable_positive_importance
+incoming_max_synapses,5,0,0,1.0,True
+incoming_synapse_sd,5,0,0,1.0,True
+outgoing_mean_synapses,5,0,0,1.0,True
+outgoing_median_synapses,5,0,0,1.0,True
+outgoing_incoming_edge_ratio,4,1,0,0.8,True
+outgoing_incoming_synapse_ratio,3,2,0,0.6,False
+outgoing_synapses,3,2,0,0.6,False
+incoming_edges,2,3,0,0.4,False
+incoming_mean_synapses,2,2,1,0.4,False
+incoming_median_synapses,2,2,1,0.4,False
+incoming_synapses,2,2,1,0.4,False
+outgoing_edges,2,3,0,0.4,False
+outgoing_max_synapses,2,0,3,0.4,False
+outgoing_synapse_sd,2,3,0,0.4,False
+total_synapses,2,3,0,0.4,False
+total_edges,1,4,0,0.2,False
