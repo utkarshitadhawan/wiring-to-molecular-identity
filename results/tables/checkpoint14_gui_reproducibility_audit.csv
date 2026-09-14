@@ -1,0 +1,2 @@
+validation_neurons_tested,prediction_consistency,ACh_probability_consistency,GABA_probability_consistency,direct_probability_sums_valid,GUI_probability_sums_valid,feature_order_verified,deterministic_prediction_verified,documentation_verified
+6,True,True,True,True,True,True,True,True
