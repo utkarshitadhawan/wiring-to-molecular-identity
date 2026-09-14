@@ -1,0 +1,7 @@
+claim,status,reason
+Connectivity architecture contains predictive information about neurotransmitter identity in the examined dataset.,SUPPORTED,"Grouped cross-validation showed predictive performance above chance, with robustness analyses supporting the result."
+Synaptic-weight distribution features contributed strongly to prediction.,SUPPORTED,Outgoing mean/median synaptic strength and incoming maximum synaptic strength were among the strongest predictive contributors.
+Outgoing connectivity features contributed substantially to model prediction.,SUPPORTED,Feature-family permutation analysis showed a substantial contribution from the outgoing connectivity family.
+Connectivity architecture mechanistically determines neurotransmitter identity.,NOT SUPPORTED,The analysis is observational and predictive; it does not establish causality or mechanism.
+The model can universally predict neurotransmitter identity across Drosophila neurons.,NOT SUPPORTED,The analysis is restricted to the examined olfactory population and the available molecular labels.
+Connectivity alone completely determines molecular identity.,NOT SUPPORTED,Predictive information does not imply deterministic determination.
