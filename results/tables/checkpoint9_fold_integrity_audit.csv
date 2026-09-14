@@ -1,0 +1,6 @@
+fold,train_neurons,validation_neurons,train_cell_types,validation_cell_types,train_ACh,train_GABA,validation_ACh,validation_GABA,cell_type_overlap
+1,132,33,51,14,113,19,29,4,0
+2,132,33,51,14,113,19,29,4,0
+3,133,32,52,13,114,19,28,4,0
+4,130,35,53,12,114,16,28,7,0
+5,133,32,53,12,114,19,28,4,0
