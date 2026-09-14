@@ -1,0 +1,12 @@
+checkpoint,component,status,evidence
+14.1,GUI dataset,PASSED,165 neurons × 16 features
+14.2,Demonstration model,PASSED,Full-dataset Logistic Regression
+14.3,Prediction function,PASSED,16-feature prediction engine
+14.4,Prediction engine test,PASSED,Known-neuron technical test
+14.5,Interactive GUI,PASSED,Gradio interface
+14.6,GUI consistency,PASSED,6 known neurons
+14.7,Scientific documentation,PASSED,GUI scientific documentation
+14.8,Final documented GUI,PASSED,16 inputs + prediction backend
+14.9,Functional audit,PASSED,Dataset/model/GUI functional checks
+14.10,Reproducibility audit,PASSED,Deterministic prediction + GUI consistency
+14.11,Final CP14 audit,PASSED,Complete interactive GUI audit
