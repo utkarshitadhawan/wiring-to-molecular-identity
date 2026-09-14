@@ -1,0 +1,4 @@
+rank,feature,label,png,pdf
+1,outgoing_mean_synapses,Outgoing mean synaptic strength,figure2_1_outgoing_mean_synapses.png,figure2_1_outgoing_mean_synapses.pdf
+2,outgoing_median_synapses,Outgoing median synaptic strength,figure2_2_outgoing_median_synapses.png,figure2_2_outgoing_median_synapses.pdf
+3,incoming_max_synapses,Incoming maximum synaptic strength,figure2_3_incoming_max_synapses.png,figure2_3_incoming_max_synapses.pdf
