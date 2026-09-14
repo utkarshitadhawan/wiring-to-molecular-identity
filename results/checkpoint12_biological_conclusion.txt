@@ -1,0 +1,24 @@
+
+The analyses provide evidence that connectivity architecture contains
+predictive information about neurotransmitter identity within the examined
+Drosophila olfactory neuron population.
+
+The strongest predictive contributions were associated with features describing
+synaptic-weight distributions, particularly outgoing mean and median synaptic
+strength and incoming maximum synaptic strength. This suggests that the
+distribution and strength of synaptic connections may carry molecularly
+informative structure beyond simple measures of network size.
+
+Feature-family analysis further indicates that outgoing and incoming
+connectivity characteristics contributed more strongly than the simple
+directionality ratios examined here.
+
+However, these findings are associative rather than mechanistic. They do not
+demonstrate that connectivity causes neurotransmitter identity, that
+neurotransmitter identity can be universally inferred from connectivity, or
+that the identified features are independently causal.
+
+The result should therefore be interpreted as a computational
+proof-of-concept: within this olfactory dataset, neural wiring contains
+measurable information that can be used to predict a molecular property of
+neurons.
