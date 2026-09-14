@@ -1,0 +1,17 @@
+feature,importance
+outgoing_mean_synapses,0.2482231989179587
+outgoing_synapse_sd,0.16546410844486265
+outgoing_synapses,0.11372319479025818
+total_synapses,0.10840002141259958
+outgoing_max_synapses,0.07818042023232138
+outgoing_median_synapses,0.04553108770376282
+total_edges,0.03931150075564409
+outgoing_edges,0.03194682209127597
+incoming_edges,0.028821304187271378
+incoming_synapses,0.02722866164719414
+outgoing_incoming_synapse_ratio,0.024266570068481177
+incoming_mean_synapses,0.023739567335539807
+incoming_synapse_sd,0.02269409640027383
+outgoing_incoming_edge_ratio,0.021811200241150717
+incoming_max_synapses,0.01594872546764015
+incoming_median_synapses,0.004709520303765412
