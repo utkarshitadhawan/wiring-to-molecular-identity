@@ -1,0 +1,7 @@
+claim,evidence,status
+Connectivity-derived features contain predictive information associated with neurotransmitter identity.,Grouped cell-type CV,SUPPORTED
+Connectivity architecture shows an associative relationship with neurotransmitter identity.,Grouped CV + feature interpretation,SUPPORTED
+Connectivity determines neurotransmitter identity.,Not tested,NOT SUPPORTED
+The model establishes a causal mechanism linking connectivity to molecular identity.,Not tested,NOT SUPPORTED
+The interactive GUI provides independent experimental validation.,GUI uses the same computational dataset/model and is a demonstration interface.,NOT SUPPORTED
+Cell-type-grouped CV provides a stricter assessment of generalization than a neuron-level random split.,CP9 grouped-CV design,SUPPORTED
