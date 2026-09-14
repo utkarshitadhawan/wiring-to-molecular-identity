@@ -1,0 +1,14 @@
+item,type,description,png,pdf,file
+Figure 1,figure,Dataset composition,figure1_dataset_composition.png,figure1_dataset_composition.pdf,
+Figure 2.1,figure,Outgoing mean synaptic strength,figure2_1_outgoing_mean_synapses.png,figure2_1_outgoing_mean_synapses.pdf,
+Figure 2.2,figure,Outgoing median synaptic strength,figure2_2_outgoing_median_synapses.png,figure2_2_outgoing_median_synapses.pdf,
+Figure 2.3,figure,Incoming maximum synaptic strength,figure2_3_incoming_max_synapses.png,figure2_3_incoming_max_synapses.pdf,
+Figure 3,figure,PCA of connectivity architecture,figure3_pca_connectivity_architecture.png,figure3_pca_connectivity_architecture.pdf,
+Figure 4,figure,Grouped cross-validation performance,figure4_grouped_cv_performance.png,figure4_grouped_cv_performance.pdf,
+Figure 5,figure,Permutation feature importance,figure5_permutation_feature_importance.png,figure5_permutation_feature_importance.pdf,
+Figure 6,figure,Feature-family contribution,figure6_feature_family_contribution.png,figure6_feature_family_contribution.pdf,
+Table 1,table,Dataset composition,,,table1_dataset_composition.csv
+Table 2,table,Grouped cross-validation model comparison,,,table2_grouped_cross_validation_model_comparison.csv
+Table 3,table,Feature-level predictive interpretation,,,table3_feature_level_predictive_interpretation.csv
+Table 4,table,Biological interpretation of connectivity features,,,table4_biological_interpretation_of_connectivity_features.csv
+Table 5,table,Feature-family contribution,,,table5_feature_family_contribution.csv
