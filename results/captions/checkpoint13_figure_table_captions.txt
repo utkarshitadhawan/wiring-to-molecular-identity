@@ -1,0 +1,75 @@
+FIGURE 1
+Composition of the analysed Drosophila olfactory neuron population
+used for connectivity-based neurotransmitter prediction. The final
+dataset contains 165 neurons representing 65 canonical cell types,
+with acetylcholine and GABA as the examined neurotransmitter classes.
+
+FIGURE 2.1
+Distribution of outgoing mean synaptic strength across canonical Drosophila
+olfactory cell types grouped by neurotransmitter identity.
+Each point represents one canonical cell type and corresponds
+to its median connectivity value.
+
+FIGURE 2.2
+Distribution of outgoing median synaptic strength across canonical Drosophila
+olfactory cell types grouped by neurotransmitter identity.
+Each point represents one canonical cell type and corresponds
+to its median connectivity value.
+
+FIGURE 2.3
+Distribution of incoming maximum synaptic strength across canonical Drosophila
+olfactory cell types grouped by neurotransmitter identity.
+Each point represents one canonical cell type and corresponds
+to its median connectivity value.
+
+FIGURE 3
+Principal-component representation of connectivity architecture across
+the examined olfactory neurons. PC1 and PC2 explain 68.02% and 14.48%
+of the total variance, respectively, with the first two components
+together explaining 82.50%. The PCA provides a descriptive
+representation of connectivity variation and does not establish
+causality.
+
+FIGURE 4
+Performance of models evaluated using precomputed cell-type-grouped
+five-fold cross-validation. Bars represent mean balanced accuracy
+across validation folds and error bars represent the standard
+deviation across folds. Canonical cell type was used as the grouping
+variable to prevent neurons belonging to the same cell type from
+being distributed between training and validation folds.
+
+FIGURE 5
+Permutation-based predictive contribution of individual connectivity
+features under cell-type-grouped validation. Bars represent mean
+permutation importance across validation folds and error bars
+represent the corresponding standard deviation. Permutation
+importance reflects predictive contribution within the evaluated
+model and should not be interpreted as an independent causal effect.
+
+FIGURE 6
+Relative permutation contribution of connectivity feature families.
+The contributions were calculated from the precomputed feature-level
+permutation importance results and summarize the relative contribution
+of different connectivity dimensions to prediction within the examined
+olfactory neuron population.
+
+TABLE 1
+Composition of the final machine-learning dataset by neurotransmitter
+identity, including neuron and canonical cell-type counts.
+
+TABLE 2
+Performance comparison of models evaluated using precomputed
+cell-type-grouped five-fold cross-validation.
+
+TABLE 3
+Feature-level predictive interpretation based on model coefficients
+and permutation importance across cell-type-grouped validation folds.
+
+TABLE 4
+Biological interpretation of connectivity features, integrating
+their predictive contribution with the connectivity dimension
+represented by each feature.
+
+TABLE 5
+Relative contribution of connectivity feature families based on the
+precomputed permutation-importance results.
