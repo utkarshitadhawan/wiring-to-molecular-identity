@@ -1,0 +1,10 @@
+claim,status
+Connectivity architecture contains predictive information about neurotransmitter identity within the examined Drosophila olfactory neuron population.,SUPPORTED WITHIN STUDY SCOPE
+Synaptic-weight distribution features made substantial predictive contributions in the evaluated models.,SUPPORTED WITHIN STUDY SCOPE
+Outgoing and incoming connectivity features contributed substantially to prediction within the evaluated feature set.,SUPPORTED WITHIN STUDY SCOPE
+Cell-type-grouped cross-validation provides a stricter assessment of generalization across canonical cell types.,SUPPORTED WITHIN STUDY SCOPE
+Connectivity mechanistically determines neurotransmitter identity.,NOT SUPPORTED
+Connectivity completely determines neurotransmitter identity.,NOT SUPPORTED
+The observed relationship is universal across Drosophila neurons.,NOT SUPPORTED
+The result is established to generalize across brain regions or species.,NOT SUPPORTED
+Individual connectivity features are independently causal.,NOT SUPPORTED
