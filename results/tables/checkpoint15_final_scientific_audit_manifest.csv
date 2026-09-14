@@ -1,0 +1,25 @@
+component,evidence,status
+Dataset,165 neurons × 20 columns,PASSED
+Connectivity features,16,PASSED
+Neurotransmitter classes,ACh / GABA,PASSED
+Unique cell types,65,PASSED
+Cell-type label conflicts,0,PASSED
+Missing feature values,0,PASSED
+Duplicate rows,0,PASSED
+Feature/identifier leakage,None detected,PASSED
+Grouped CV,5-fold StratifiedGroupKFold,PASSED
+Model families,Dummy / Logistic / RF / XGBoost,PASSED
+Primary model,Logistic Regression,PASSED
+Primary grouped-CV BA,0.929 ± 0.060,PASSED
+Primary grouped-CV Macro F1,0.808 ± 0.136,PASSED
+Permutation robustness,100 group-preserving permutations,PASSED
+Top feature,outgoing_mean_synapses,PASSED
+Second feature,incoming_max_synapses,PASSED
+Third feature,outgoing_median_synapses,PASSED
+PCA PC1,68.02%,PASSED
+PCA PC2,14.48%,PASSED
+Interactive GUI,Gradio demonstration,PASSED
+GUI consistency validation,6 known neurons,PASSED
+GUI reproducibility,Deterministic prediction verified,PASSED
+Scientific interpretation,"Associative, not causal",PASSED
+Independent experimental validation,Not claimed,PASSED
