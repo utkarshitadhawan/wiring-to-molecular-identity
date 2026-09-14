@@ -1,0 +1,13 @@
+audit_component,status
+CP15.2_dataset_integrity,REVIEW
+CP15.3_feature_and_leakage_audit,PASSED
+CP15.4_cell_type_grouping,PASSED
+CP15.5_grouped_CV_integrity,REVIEW
+CP15.6_primary_model,REVIEW
+CP15.7_robustness,PASSED
+CP15.8_feature_interpretation,REVIEW
+CP15.9_biological_interpretation,PASSED
+CP15.10_PCA,PASSED
+CP15.11_publication_outputs,PASSED
+CP15.12_figure2_consistency,REVIEW
+CP15.13_reproducibility,PASSED
