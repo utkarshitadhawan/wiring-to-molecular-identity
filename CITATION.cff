@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Wiring to Molecular Identity: A Connectivity-Based Machine Learning Proof-of-Concept for Neurotransmitter Prediction in the Drosophila Olfactory System"
+message: "If this repository, its code, methodology, analyses, or derived results materially contribute to a scholarly publication, please cite this work."
+type: software
+authors:
+  - family-names: "Dhawan"
+    given-names: "Utkarshita"
+    affiliation: "TERI School of Advanced Studies"
+version: "1.0.0"
+date-released: "2026-09-14"
+license: "MIT"
+repository-code: "https://github.com/utkarshitadhawan/wiring-to-molecular-identity"
+keywords:
+  - Drosophila
+  - olfactory system
+  - connectomics
+  - neurotransmitter
+  - molecular identity
+  - machine learning
+  - computational neuroscience
+  - neural connectivity
