@@ -1,0 +1,7 @@
+test,purpose,status
+Grouped validation,Prevent leakage between neurons of the same canonical cell type,Passed
+Feature leakage audit,Ensure IDs and molecular labels are excluded from predictors,Passed
+Feature-family sensitivity,Determine whether predictive signal depends on one predefined feature family,Completed
+Log1p transformation,Test sensitivity to skewed connectivity-feature scales,Completed
+Synapse threshold sensitivity,Test dependence on weak 1-synapse edges,Completed
+Group-preserving permutation,Test whether predictive performance disappears after destroying label-feature correspondence,Completed
