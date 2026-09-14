@@ -1,0 +1,17 @@
+feature,importance
+outgoing_mean_synapses,0.18074486
+outgoing_median_synapses,0.15600973
+outgoing_synapses,0.14807658
+outgoing_synapse_sd,0.12775217
+incoming_synapses,0.06615996
+incoming_max_synapses,0.064746484
+outgoing_incoming_edge_ratio,0.044309188
+outgoing_max_synapses,0.04038695
+total_synapses,0.037199154
+outgoing_incoming_synapse_ratio,0.033898834
+incoming_synapse_sd,0.03039223
+outgoing_edges,0.024356846
+incoming_edges,0.019154662
+incoming_median_synapses,0.010060967
+total_edges,0.009646288
+incoming_mean_synapses,0.007105111
